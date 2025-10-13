@@ -13,7 +13,7 @@
   "apps": [
     {
       "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtub",
       "marketplaceID": "",
       "developerName": "https://github.com/dayanch96",
       "subtitle": "YouTube Enhanced",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
+      "bundleIdentifier": "com.eeveespotify.client",
       "marketplaceID": "",
       "developerName": "whoeevee",
       "subtitle": "Spotify Premium for Free",
