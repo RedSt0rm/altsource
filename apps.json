@@ -14,7 +14,6 @@
     {
       "name": "YouTube",
       "bundleIdentifier": "com.redst0rm.youtube",
-      "marketplaceID": "",
       "developerName": "dayanch96",
       "subtitle": "YouTube Enhanced",
       "localizedDescription": "A juiced up YouTube version.",
@@ -47,12 +46,10 @@
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
         }
       },
-      "patreon": {}
     },
     {
       "name": "Spotify",
       "bundleIdentifier": "com.redst0rm.eeveespotify",
-      "marketplaceID": "",
       "developerName": "whoeevee",
       "subtitle": "Spotify Premium for Free",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -92,7 +89,6 @@
           "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
         }
       },
-      "patreon": {}
     }
   ],
   "news": []
