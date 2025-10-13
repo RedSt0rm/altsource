@@ -1,0 +1,100 @@
+{
+  "name": "Hackintosh",
+  "subtitle": "Your favourites HackOS in one place",
+  "description": "Welcome to my source! Here you'll find all of my, up to date, Apps. Feel free to download",
+  "iconURL": "https://i.imgur.com/VuYZ4ZD.png",
+  "website": "https://github.com/RedSt0rm/altsource",
+  "patreonURL": "",
+  "tintColor": "#000000",
+  "featuredApps": [
+    "com.spotify.client",
+    "com.google.ios.youtube"
+  ],
+  "headerURL": "https://i.imgur.com/MUBfF4Z.png",
+  "apps": [
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "",
+      "developerName": "https://github.com/dayanch96",
+      "subtitle": "YouTube Enhanced",
+      "localizedDescription": "A juiced up YouTube version.",
+      "iconURL": "https://i.imgur.com/0KGCAgj.png",
+      "tintColor": "#fc0434",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "20.32.4",
+          "date": "2025-10-13T11:15:00+02:00",
+          "localizedDescription": null,
+          "downloadURL": "https://www.dropbox.com/scl/fi/svwp3ndiig2stwtqhta7t/YouTubePlus_5.2b3.ipa?rlkey=tdgq9bm6t00t7hm83b5dmxr6b&st=utc3v0zg&dl=0",
+          "size": 121200000,
+          "buildVersion": "5.2b3",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "whoeevee",
+      "subtitle": "Spotify Premium for Free",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/Mua50ip.png",
+      "tintColor": "#3fe963",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.0.82",
+          "date": "2025-10-13T13:10:00+02:00",
+          "localizedDescription": null,
+          "downloadURL": "https://www.dropbox.com/scl/fi/gjs9xlk8j1qn3qazbrz0e/EeveeSpotify-6.1.5.ipa?rlkey=f9t65i9exkdsqsap60shnv4hu&st=5amf4g3e&dl=0",
+          "size": 87300000,
+          "buildVersion": "6.1.5",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
