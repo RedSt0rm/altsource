@@ -2,4 +2,4 @@
 
 AltStore source with tweaked apps and possibly more.
 
-[Preview](https://RedSt0rm.github.io/altsource-viewer/view/?source=https://RedSt0rm.github.io/altsource/Hackintosh.json)
+[Preview](https://redst0rm.github.io/altsource-viewer/view/?source=https://redst0rm.github.io/altsource/Hackintosh.json)
