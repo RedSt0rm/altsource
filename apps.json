@@ -96,14 +96,14 @@
             "title": "🎶 Eevee Spotify v.6.1.5 Update 🎶",
             "identifier": "redst0rm-news-4",
             "caption": "The new update fully fixes the Random order song playing bug ✅",
-            "tintColor": "8fff94",
+            "tintColor": "A405FA",
             "date": "2025-10-10",
             "notify": false
         },
         {
-            "title": "❌ uYouPlus ❌",
+            "title": "uYouPlus",
             "identifier": "redst0rm-news-3",
-            "caption": "Still present the Shorts bug that causes the app to crash",
+            "caption": "Still present the Shorts bug that causes the app to crash 🅧",
             "tintColor": "cb1633",
             "date": "2024-03-28",
             "notify": false
