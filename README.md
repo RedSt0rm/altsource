@@ -1,4 +1,4 @@
-# Gino's AltSource
+# Hackintosh AltSource
 
-AltStore source with tweaked apps and possibly more.
+AltStore source with the most useful tweaked apps.
 
