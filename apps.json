@@ -13,7 +13,7 @@
   "apps": [
     {
       "name": "YouTube",
-      "bundleIdentifier": "com.redst0rm.youtube",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "dayanch96",
       "subtitle": "YouTube Enhanced",
       "localizedDescription": "A juiced up YouTube version.",
@@ -49,7 +49,7 @@
     },
     {
       "name": "Spotify",
-      "bundleIdentifier": "com.redst0rm.eeveespotify",
+      "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
       "subtitle": "Spotify Premium for Free",
       "localizedDescription": "This is an awesome app only available on AltStore.",
