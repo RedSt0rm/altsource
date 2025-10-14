@@ -92,6 +92,15 @@
     }
   ],
     "news": [
+      {
+            "title": "Breaking News!",
+            "identifier": "redst0rm-news-1",
+            "caption": "He need some Milk🥛",
+            "tintColor": "00b5ff",
+            "url": "https://www.youtube.com/watch?v=vG2I7r4qlEA&pp=ygUSaGUgbmVlZHMgc29tZSBtaWxr",
+            "date": "2025-10-10",
+            "notify": false
+        },
         {
             "title": "🎶 Eevee Spotify v.6.1.5 Update 🎶",
             "identifier": "redst0rm-news-4",
@@ -105,7 +114,7 @@
             "identifier": "redst0rm-news-3",
             "caption": "Still present the Shorts bug that causes the app to crash 🅧",
             "tintColor": "cb1633",
-            "date": "2024-03-28",
+            "date": "2025-10-10",
             "notify": false
         },
         {
@@ -113,17 +122,8 @@
             "identifier": "redst0rm-news-2",
             "caption": "YouTube Lite is an enhanced version of YouTube classic. No Shorts Bug ✅",
             "tintColor": "cb1633",
-            "date": "2023-05-23",
+            "date": "2025-10-10",
             "notify": true
-        },
-        {
-            "title": "Breaking News!",
-            "identifier": "redst0rm-news-1",
-            "caption": "He need some Milk🥛",
-            "tintColor": "D85240",
-            "url": "https://www.youtube.com/watch?v=vG2I7r4qlEA&pp=ygUSaGUgbmVlZHMgc29tZSBtaWxr",
-            "date": "2023-04-06",
-            "notify": false
         }
     ]
 }
