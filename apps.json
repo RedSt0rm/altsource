@@ -2,14 +2,14 @@
   "name": "Hackintosh",
   "subtitle": "Your favourites HackOS in one place",
   "description": "Welcome to my source! Here you'll find all of my, up to date, Apps. Feel free to download",
-  "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fjailbreak%2Fcomments%2F1tksf8%2Frename_it_iconpng_go_to_applications_cydiaapp_and%2F&psig=AOvVaw1iqrvEixtHdIGv-JqsjVHo&ust=1760540983845000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjM97H8o5ADFQAAAAAdAAAAABAo",
+  "iconURL": "https://i.imgur.com/G3aNZFG.jpg",
   "website": "https://github.com/RedSt0rm/altsource",
   "tintColor": "#000000",
   "featuredApps": [
     "com.spotify.client",
     "com.google.ios.youtube"
   ],
-  "headerURL": "https://i.pinimg.com/736x/4c/20/f4/4c20f473b586ab37000479f54b60e0c5.jpg",
+  "headerURL": "https://news.macgasm.net/wp-content/uploads/2025/06/welcome.jpg",
   "apps": [
     {
       "name": "YouTube",
