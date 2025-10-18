@@ -1,7 +1,7 @@
 {
   "name": "Hackintosh",
   "subtitle": "Your favourites HackOS in one place",
-  "description": "Welcome to my source! Here you'll find all of my, up to date, Apps. Feel free to download. A special thanks to Irene Silvestrini for helping me testing this AltSource! 💙",
+  "description": "Welcome to my source! Here you'll find all of my, up to date, Apps. Feel free to download. A special thanks to Irene Silvestrini for helping me testing this AltSource!",
   "iconURL": "https://i.imgur.com/G3aNZFG.jpg",
   "website": "https://github.com/RedSt0rm/altsource",
   "tintColor": "#000000",
@@ -90,6 +90,19 @@
         }
       },
     }
+    {
+      "name": "CarTube",
+      "bundleIdentifier": "com.avangelista.CarTube",
+      "developerName": "Avangelista",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png",
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2024-11-17",
+          "size": 574441,
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube-1.3.ipa",
+          "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705"
+        }
   ],
     "news": [
       {
@@ -102,7 +115,7 @@
             "notify": false
         },
         {
-            "title": "🎶 Eevee Spotify v.6.1.5 Update 🎶",
+            "title": "Eevee Spotify v.6.1.5 Update",
             "identifier": "redst0rm-news-4",
             "caption": "The new update fully fixes the Random order song playing bug ✅",
             "tintColor": "A405FA",
