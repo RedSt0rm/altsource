@@ -119,7 +119,7 @@
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "ipalibrary.me / binnichtaktiv's iPA Library",
       "iconURL": "https://e7.pngegg.com/pngimages/1021/559/png-clipart-myfitnesspal-physical-fitness-fitness-app-android-android-blue-physical-fitness-thumbnail.png",
-      "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it."
+      "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it.",
       "versions": [
         {
           "version": "25.8.0",
@@ -133,7 +133,7 @@
       "bundleIdentifier": "yuca.scanner",
       "developerName": "iOS Tutorials + App Cracks",
       "iconURL": "https://play-lh.googleusercontent.com/fmGc9NGmf0ZTV2PQIhZ7lprvqNaUOaZEFXZg6MIG5fDaUiTua4Y2D7IxA3jaHDj2xQ=w240-h480-rw",
-      "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome."
+      "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.",
       "versions": [
         {
           "version": "4.39",
@@ -142,7 +142,7 @@
         }
       ]
     },
-  ],
+  ]
     "news": [
       {
             "title": "Breaking News!",
@@ -177,5 +177,5 @@
             "date": "2025-10-10",
             "notify": true
         }
-    ],
+    ]
 }
