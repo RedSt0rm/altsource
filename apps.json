@@ -27,7 +27,7 @@
           "date": "2025-10-13T11:15:00+02:00",
           "downloadURL": "https://www.dropbox.com/scl/fi/svwp3ndiig2stwtqhta7t/YouTubePlus_5.2b3.ipa?rlkey=tdgq9bm6t00t7hm83b5dmxr6b&st=utc3v0zg&dl=0",
           "size": 121200000,
-          "buildVersion": "5.2b3",
+          "buildVersion": "5.2b3"
         }
       ],
       "appPermissions": {
@@ -43,7 +43,7 @@
           "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
         }
-      },
+      }
     },
     {
       "name": "Spotify",
@@ -61,7 +61,7 @@
           "date": "2025-10-13T13:10:00+02:00",
           "downloadURL": "https://www.dropbox.com/scl/fi/gjs9xlk8j1qn3qazbrz0e/EeveeSpotify-6.1.5.ipa?rlkey=f9t65i9exkdsqsap60shnv4hu&st=5amf4g3e&dl=0",
           "size": 87300000,
-          "buildVersion": "6.1.5",
+          "buildVersion": "6.1.5"
         }
       ],
       "appPermissions": {
@@ -84,7 +84,7 @@
           "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
           "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
         }
-      },
+      }
     },
     {
       "name": "CarTube",
@@ -96,10 +96,10 @@
         {
           "version": "1.3",
           "date": "2024-11-17",
-          "downloadURL": "https://www.dropbox.com/scl/fi/8t1x7iihz0v2vl26mwph3/CarTube-1.3.ipa?rlkey=7od7mtpb811i3whdro15q40pi&st=no0sf66p&dl=0",
+          "downloadURL": "https://www.dropbox.com/scl/fi/8t1x7iihz0v2vl26mwph3/CarTube-1.3.ipa?rlkey=7od7mtpb811i3whdro15q40pi&st=no0sf66p&dl=0"
         }
-       ]
-      },
+      ]
+    },
     {
       "name": "StravaPremium",
       "bundleIdentifier": "com.strava.stravaride",
@@ -110,11 +110,11 @@
         {
           "version": "375.0.0",
           "date": "2024-10-13",
-          "downloadURL": "https://www.dropbox.com/scl/fi/pm4gthbcft89v1uhcdrla/StravaPremium-375.0.0.ipa?rlkey=knmqlb0qxjgywi6hv2xx14pmb&st=f4d148dt&dl=0",
+          "downloadURL": "https://www.dropbox.com/scl/fi/pm4gthbcft89v1uhcdrla/StravaPremium-375.0.0.ipa?rlkey=knmqlb0qxjgywi6hv2xx14pmb&st=f4d148dt&dl=0"
         }
       ]
     },
-     {
+    {
       "name": "MyFitnessPalPremium",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "ipalibrary.me / binnichtaktiv's iPA Library",
@@ -124,58 +124,58 @@
         {
           "version": "25.8.0",
           "date": "2024-10-11",
-          "downloadURL": "https://www.dropbox.com/scl/fi/th7boqk2aci23abomke0g/MyFitnessPal-_25.8.0_LeTi.ipa?rlkey=2vhubhbqay4gthnw256p4oja0&st=cm8ao5c6&dl=0",
+          "downloadURL": "https://www.dropbox.com/scl/fi/th7boqk2aci23abomke0g/MyFitnessPal-_25.8.0_LeTi.ipa?rlkey=2vhubhbqay4gthnw256p4oja0&st=cm8ao5c6&dl=0"
         }
       ]
     },
-     {
+    {
       "name": "YukaPremium",
       "bundleIdentifier": "yuca.scanner",
       "developerName": "iOS Tutorials + App Cracks",
       "iconURL": "https://play-lh.googleusercontent.com/fmGc9NGmf0ZTV2PQIhZ7lprvqNaUOaZEFXZg6MIG5fDaUiTua4Y2D7IxA3jaHDj2xQ=w240-h480-rw",
-      "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.",
+      "localizedDescription": "App that lets you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product.",
       "versions": [
         {
           "version": "4.39",
           "date": "2024-10-17",
-          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.39.ipa",
+          "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.39.ipa"
         }
       ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Breaking News!",
+      "identifier": "redst0rm-news-1",
+      "caption": "He need some Milk🥛",
+      "tintColor": "00b5ff",
+      "url": "https://www.youtube.com/watch?v=vG2I7r4qlEA&pp=ygUSaGUgbmVlZHMgc29tZSBtaWxr",
+      "date": "2025-10-10",
+      "notify": false
     },
+    {
+      "title": "Eevee Spotify v.6.1.5 Update",
+      "identifier": "redst0rm-news-4",
+      "caption": "The new update fully fixes the Random order song playing bug ✅",
+      "tintColor": "A405FA",
+      "date": "2025-10-10",
+      "notify": false
+    },
+    {
+      "title": "uYouPlus",
+      "identifier": "redst0rm-news-3",
+      "caption": "Still present the Shorts bug that causes the app to crash 🅧",
+      "tintColor": "cb1633",
+      "date": "2025-10-10",
+      "notify": false
+    },
+    {
+      "title": "▶️ YouTube Lite ▶️",
+      "identifier": "redst0rm-news-2",
+      "caption": "YouTube Lite is an enhanced version of YouTube classic. No Shorts Bug ✅",
+      "tintColor": "cb1633",
+      "date": "2025-10-10",
+      "notify": true
+    }
   ]
-    "news": [
-      {
-            "title": "Breaking News!",
-            "identifier": "redst0rm-news-1",
-            "caption": "He need some Milk🥛",
-            "tintColor": "00b5ff",
-            "url": "https://www.youtube.com/watch?v=vG2I7r4qlEA&pp=ygUSaGUgbmVlZHMgc29tZSBtaWxr",
-            "date": "2025-10-10",
-            "notify": false
-        },
-        {
-            "title": "Eevee Spotify v.6.1.5 Update",
-            "identifier": "redst0rm-news-4",
-            "caption": "The new update fully fixes the Random order song playing bug ✅",
-            "tintColor": "A405FA",
-            "date": "2025-10-10",
-            "notify": false
-        },
-        {
-            "title": "uYouPlus",
-            "identifier": "redst0rm-news-3",
-            "caption": "Still present the Shorts bug that causes the app to crash 🅧",
-            "tintColor": "cb1633",
-            "date": "2025-10-10",
-            "notify": false
-        },
-        {
-            "title": "▶️ YouTube Lite ▶️",
-            "identifier": "redst0rm-news-2",
-            "caption": "YouTube Lite is an enhanced version of YouTube classic. No Shorts Bug ✅",
-            "tintColor": "cb1633",
-            "date": "2025-10-10",
-            "notify": true
-        }
-    ]
 }
