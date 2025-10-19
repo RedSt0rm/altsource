@@ -85,7 +85,7 @@
           "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
         }
       },
-    }
+    },
     {
       "name": "CarTube",
       "bundleIdentifier": "com.avangelista.CarTube",
@@ -99,7 +99,7 @@
           "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705"
         }
        ]
-      }
+      },
     {
       "name": "StravaPremium",
       "bundleIdentifier": "com.strava.stravaride",
@@ -177,5 +177,5 @@
             "date": "2025-10-10",
             "notify": true
         }
-    ]
+    ],
 }
