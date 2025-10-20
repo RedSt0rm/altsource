@@ -2,9 +2,9 @@
   "name": "Hackintosh",
   "subtitle": "Your favourites HackOS in one place",
   "description": "Welcome to my source! Here you'll find all of my, up to date, Apps. Feel free to download. A special thanks to Irene for helping me out with the testing!",
-  "iconURL": "https://i.imgur.com/G3aNZFG.jpg",
+  "iconURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0095febd-809a-448a-9be0-8796c6b24e41/d6zn8c6-3fba63f1-604d-46fa-9a66-a9fcec75f500.png/v1/fill/w_894,h_894/ios_7_cydia_icon_by_eddiepradom_d6zn8c6-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAwMCIsInBhdGgiOiJcL2ZcLzAwOTVmZWJkLTgwOWEtNDQ4YS05YmUwLTg3OTZjNmIyNGU0MVwvZDZ6bjhjNi0zZmJhNjNmMS02MDRkLTQ2ZmEtOWE2Ni1hOWZjZWM3NWY1MDAucG5nIiwid2lkdGgiOiI8PTIwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vgYSjuFqa4ev33TdNIEghuxtDmvoxq_uwGu_2UUN0Kw",
   "website": "https://github.com/RedSt0rm/altsource",
-  "tintColor": "#000000",
+  "tintColor": "#00a7ff",
   "featuredApps": [
     "com.spotify.client",
     "com.google.ios.youtube"
