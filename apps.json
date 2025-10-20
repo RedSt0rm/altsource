@@ -15,12 +15,23 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "dayanch96",
-      "subtitle": "YouTube Enhanced",
+      "subtitle": "YouTubePlus",
       "localizedDescription": "A juiced up YouTube version.",
       "iconURL": "https://i.imgur.com/0KGCAgj.png",
       "tintColor": "#fc0434",
       "category": "other",
-      "screenshots": [],
+      "screenshots": [
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1609.jpg"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1610.jpg"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1611.jpg"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1612.jpg"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1615.jpg"
+        },
+      ]
       "versions": [
         {
           "version": "20.32.4",
