@@ -21,15 +21,15 @@
       "tintColor": "#fc0434",
       "category": "other",
       "screenshots": [
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1614.jpg?raw=true"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1615.jpg?raw=true"
+        },
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1609.jpg?raw=true"
         },
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1610.jpg?raw=true"
         },
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1611.jpg?raw=true"
-        },
-        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1612.jpg?raw=true"
-        },
-        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1615.jpg?raw=true"
         },
       ],
       "versions": [
@@ -65,7 +65,14 @@
       "iconURL": "https://i.imgur.com/Mua50ip.png",
       "tintColor": "#3fe963",
       "category": "entertainment",
-      "screenshots": [],
+      "screenshots": [
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/EeveeSpotify/IMG_1607.jpg?raw=true"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/EeveeSpotify/IMG_1608.jpg?raw=true"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/EeveeSpotify/IMG_1606.jpg?raw=true"
+        },
+      ],
       "versions": [
         {
           "version": "9.0.82",
