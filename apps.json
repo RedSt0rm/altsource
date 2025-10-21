@@ -53,8 +53,49 @@
           "size": 121200000,
         }
       ],
+       "permissions": [
+                {
+                    "type": "photos",
+                    "usageDescription": "Allows YouTube to upload media from your photo library."
+                },
+                {
+                    "type": "background-audio",
+                    "usageDescription": "Allows YouTube to play audio in the background."
+                }
+            ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+                    {
+                        "name": "get-task-allow"
+                    },
+                    {
+                        "name": "aps-environment"
+                    },
+                    {
+                        "name": "com.apple.developer.associated-domains"
+                    },
+                    {
+                        "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
+                    },
+                    {
+                        "name": "com.apple.developer.device-information.user-assigned-device-name"
+                    },
+                    {
+                        "name": "com.apple.developer.networking.multicast"
+                    },
+                    {
+                        "name": "com.apple.developer.networking.wifi-info"
+                    },
+                    {
+                        "name": "com.apple.developer.usernotifications.time-sensitive"
+                    },
+                    {
+                        "name": "com.apple.security.application-groups"
+                    },
+                    {
+                        "name": "keychain-access-groups"
+                    }
+                ],
         "privacy": {
           "NSCameraUsageDescription": "This lets you create videos using the app.",
           "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
@@ -73,7 +114,7 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
       "subtitle": "Spotify Premium for Free",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics. EeveeSpotify has always been free and open-source project. Crypto donations if you'd like to support the creator: USDT (TRC-20): TK4AZZLEWrahYUkKDG8r8Pr5BmkoFjs5zU ETH/USDC/USDT: 0x4eFf79BdfCa9d3BC01a1d145eF343871bb0a3CdF BTC: bc1qspsnjenfq6wgj9a7pmm2xe3up4622wqxlem0g5 TON: UQCgt8EfLdT3QOmnC11vsndUBHryi2suTcTOVCQqBgMdmg4l LTC: ltc1qup3v46fm05sxd278r63957wh4qf2esehevpy76",
       "iconURL": "https://i.imgur.com/Mua50ip.png",
       "tintColor": "#3fe963",
       "category": "entertainment",
