@@ -206,6 +206,7 @@
       "bundleIdentifier": "com.avangelista.CarTube",
       "developerName": "Avangelista",
       "iconURL": "https://cartubeapk.me/wp-content/uploads/2025/09/CarTubeapk.png",
+      "tintColor": "#fc0434",
       "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc",
       "versions": [
         {
@@ -220,7 +221,8 @@
       "name": "StravaPremium",
       "bundleIdentifier": "com.strava.stravaride",
       "developerName": "Dell",
-      "iconURL": "https://www.internetmatters.org/wp-content/uploads/2025/04/Strava-feature.webp",
+      "iconURL": "https://play-lh.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU",
+      "tintColor": "#ff8d00",
       "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts all in one place.",
       "versions": [
         {
@@ -235,7 +237,8 @@
       "name": "MyFitnessPalPremium",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "binnichtaktiv",
-      "iconURL": "https://e7.pngegg.com/pngimages/1021/559/png-clipart-myfitnesspal-physical-fitness-fitness-app-android-android-blue-physical-fitness-thumbnail.png",
+      "iconURL": "https://play-lh.googleusercontent.com/DtR_W1lA1tKsbrr2DUo3TLNzqi9qRyxPqDuCyJeGLU6OMJKqg7CEqs45btRqvDFNDI3Y",
+      "tintColor": "#0c67be",
       "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it.",
       "versions": [
         {
@@ -247,10 +250,28 @@
       ]
     },
     {
+      "name": "DuoLingoPremium",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "subtitle": "DuoLingo Premium for Free",
+      "developerName": "ipacracker",
+      "iconURL": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA=w240-h480-rw",
+      "tintColor": "#006c01",
+      "localizedDescription": "Duolingo is a free language-learning platform with an app and website that uses bite-sized, game-like lessons to teach new languages. It is designed to be accessible to everyone and uses AI and language science to personalize the learning experience and make it fun. Users can practice speaking, reading, listening, and writing, and the platform offers features like daily reminders, leaderboards, and achievements to help with motivation."
+      "versions": [
+        {
+          "version": "7.96.0",
+          "date": "2024-10-11",
+          "size": 87300000,
+          "downloadURL": "https://www.dropbox.com/scl/fi/xxbs9uyxvjgjbszzxdhcx/Duolingo-_7.96.0.ipa?rlkey=pjq4juq9221wfhmkw7ttir3yl&st=aibdhqyg&dl=1"
+        }
+      ]
+    },
+    {
       "name": "YukaPremium",
       "bundleIdentifier": "yuka.scanner",
-      "developerName": "iOS Tutorials + App Cracks",
+      "developerName": "ipacracker",
       "iconURL": "https://play-lh.googleusercontent.com/fmGc9NGmf0ZTV2PQIhZ7lprvqNaUOaZEFXZg6MIG5fDaUiTua4Y2D7IxA3jaHDj2xQ=w240-h480-rw",
+      "tintColor": "#999999",
       "localizedDescription": "App that lets you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product.",
       "versions": [
         {
