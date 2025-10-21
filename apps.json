@@ -95,8 +95,52 @@
           "size": 87300000,
         }
       ],
+      "permissions": [
+                {
+                    "type": "photos",
+                    "usageDescription": "Allows Spotify to upload media from your photo library for use as playlist cover, profile picture, etc."
+                },
+                {
+                    "type": "background-audio",
+                    "usageDescription": "Allows Spotify to play audio in the background."
+                }
+            ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+                    {
+                        "name": "get-task-allow"
+                    },
+                    {
+                        "name": "aps-environment"
+                    },
+                    {
+                        "name": "com.apple.developer.siri"
+                    },
+                    {
+                        "name": "com.apple.developer.carplay-audio"
+                    },
+                    {
+                        "name": "com.apple.developer.playable-content"
+                    },
+                    {
+                        "name": "com.apple.developer.applesignin"
+                    },
+                    {
+                        "name": "com.apple.developer.networking.multicast"
+                    },
+                    {
+                        "name": "com.apple.developer.networking.wifi-info"
+                    },
+                    {
+                        "name": "keychain-access-groups"
+                    },
+                    {
+                        "name": "com.apple.security.application-groups"
+                    },
+                    {
+                        "name": "com.apple.developer.associated-domains"
+                    }
+                ],
         "privacy": {
           "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
           "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
