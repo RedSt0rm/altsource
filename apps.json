@@ -118,7 +118,7 @@
       "iconURL": "https://i.imgur.com/Mua50ip.png",
       "tintColor": "#3fe963",
       "category": "entertainment",
-      "downloadURL": "https://www.dropbox.com/scl/fi/gjs9xlk8j1qn3qazbrz0e/EeveeSpotify-6.1.5.ipa?rlkey=f9t65i9exkdsqsap60shnv4hu&st=b1b33lw1&dl=1",
+      "downloadURL": "https://www.dropbox.com/scl/fi/egho8sxqpnujih6t4rh49/EeveeSpotify_9.0.86_6.1.6.ipa?rlkey=jtnedg5ykotq788gkconarqaq&st=qvyet37v&dl=1",
       "screenshots": [
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/EeveeSpotify/IMG_1607.jpg?raw=true"
         },
@@ -129,7 +129,7 @@
       ],
       "versions": [
         {
-          "version": "9.0.82",
+          "version": "9.0.86 (Build_6.1.6)",
           "date": "2025-10-13T13:10:00+02:00",
           "downloadURL": "https://www.dropbox.com/scl/fi/gjs9xlk8j1qn3qazbrz0e/EeveeSpotify-6.1.5.ipa?rlkey=f9t65i9exkdsqsap60shnv4hu&st=5amf4g3e&dl=1",
           "size": 87300000,
@@ -294,11 +294,11 @@
       "url": "https://www.youtube.com/watch?v=vG2I7r4qlEA&pp=ygUSaGUgbmVlZHMgc29tZSBtaWxr",
     },
     {
-      "title": "Eevee Spotify v.6.1.5 Update",
+      "title": "Eevee Spotify v.6.1.6 Update",
       "identifier": "redst0rm-news-4",
-      "caption": "The new update fully fixes the Random order song playing bug ✅",
+      "caption": "The new update fully fixes the Random order song playing bug. Also available the OpenSafariExtension, you just need to enable it on Safari and consent all websites. All the other extensions have been removed, so click on mantain extensions while installing through AltStore!",
       "tintColor": "A405FA",
-      "date": "2025-10-10",
+      "date": "2025-22-10",
       "notify": false
     },
     {
