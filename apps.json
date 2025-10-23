@@ -94,7 +94,19 @@
                     },
                     {
                         "name": "keychain-access-groups"
-                    }
+                    },
+                    {
+                         "name": "com.apple.developer.usernotifications.communication"
+                    },
+                    {
+                         "name": "com.apple.developer.grupo-session"
+                    },
+                    {
+                         "name": "com.apple.developer.healthkit"
+                    },
+                    {
+                         "name": "com.apple.developer.healthkit.access"
+                    },
                 ],
         "privacy": {
           "NSCameraUsageDescription": "This lets you create videos using the app.",
