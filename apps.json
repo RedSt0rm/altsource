@@ -96,7 +96,10 @@
                         "name": "keychain-access-groups"
                     },
                     {
-                         "name": "com.apple.developer.storekit.requestdata"
+                         "name": "com.apple.developer.storekit.request-data"
+                    },
+                    {
+                         "name": "com.apple.developer.usernotifications.communication"
                     },
                     {
                          "name": "com.apple.developer.group-session"
@@ -189,7 +192,7 @@
                     {
                         "name": "com.apple.developer.associated-domains"
                     },
-                 {
+                    {
                          "name": "com.apple.developer.usernotifications.communication"
                     },
                     {
