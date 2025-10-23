@@ -113,7 +113,7 @@
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
-      "subtitle": "Spotify Premium for Free",
+      "subtitle": "Spotify Premium for Free Build_6.1.6",
       "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics. EeveeSpotify has always been free and open-source project. Crypto donations if you'd like to support the creator: USDT (TRC-20): TK4AZZLEWrahYUkKDG8r8Pr5BmkoFjs5zU ETH/USDC/USDT: 0x4eFf79BdfCa9d3BC01a1d145eF343871bb0a3CdF BTC: bc1qspsnjenfq6wgj9a7pmm2xe3up4622wqxlem0g5 TON: UQCgt8EfLdT3QOmnC11vsndUBHryi2suTcTOVCQqBgMdmg4l LTC: ltc1qup3v46fm05sxd278r63957wh4qf2esehevpy76",
       "iconURL": "https://i.imgur.com/Mua50ip.png",
       "tintColor": "#3fe963",
@@ -129,7 +129,7 @@
       ],
       "versions": [
         {
-          "version": "9.0.86 (Build_6.1.6)",
+          "version": "9.0.86",
           "date": "2025-10-13T13:10:00+02:00",
           "downloadURL": "https://www.dropbox.com/scl/fi/egho8sxqpnujih6t4rh49/EeveeSpotify_9.0.86_6.1.6.ipa?rlkey=jtnedg5ykotq788gkconarqaq&st=qvyet37v&dl=1",
           "size": 87300000,
