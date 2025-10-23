@@ -20,7 +20,7 @@
       "iconURL": "https://i.imgur.com/0KGCAgj.png",
       "tintColor": "#fc0434",
       "category": "other",
-      "downloadURL": "https://www.dropbox.com/scl/fi/xw276v1xurpdxxkzxunlm/YouTubeLite_5.2b3_BillyCurtisExt.ipa?rlkey=rtzs938z61e6o8k8hq4b78eg1&st=rflrls4c&dl=1",
+      "downloadURL": "https://www.dropbox.com/scl/fi/e4ei79lnvf2vo4x5fv6iy/YouTubeLite_5.2b3_BillyCurtisExt.ipa?rlkey=6vk61mnyjedieayv45lrfrl8u&st=c64u8uko&dl=1",
       "screenshots": [
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YouTubeLite%2B/IMG_1614.jpg?raw=true"
         },
@@ -49,7 +49,7 @@
         {
           "version": "20.32.4",
           "date": "2025-10-13T11:15:00+02:00",
-          "downloadURL": "https://www.dropbox.com/scl/fi/xw276v1xurpdxxkzxunlm/YouTubeLite_5.2b3_BillyCurtisExt.ipa?rlkey=rtzs938z61e6o8k8hq4b78eg1&st=rflrls4c&dl=1",
+          "downloadURL": "https://www.dropbox.com/scl/fi/e4ei79lnvf2vo4x5fv6iy/YouTubeLite_5.2b3_BillyCurtisExt.ipa?rlkey=6vk61mnyjedieayv45lrfrl8u&st=c64u8uko&dl=1",
           "size": 121200000,
         }
       ],
@@ -96,17 +96,14 @@
                         "name": "keychain-access-groups"
                     },
                     {
-                         "name": "com.apple.developer.usernotifications.communication"
+                         "name": "com.apple.developer.storekit.requestdata"
                     },
                     {
-                         "name": "com.apple.developer.grupo-session"
+                         "name": "com.apple.developer.group-session"
                     },
                     {
-                         "name": "com.apple.developer.healthkit"
-                    },
-                    {
-                         "name": "com.apple.developer.healthkit.access"
-                    },
+                         "name": "com.apple.developer.siri"
+                    }
                 ],
         "privacy": {
           "NSCameraUsageDescription": "This lets you create videos using the app.",
@@ -191,6 +188,18 @@
                     },
                     {
                         "name": "com.apple.developer.associated-domains"
+                    },
+                 {
+                         "name": "com.apple.developer.usernotifications.communication"
+                    },
+                    {
+                         "name": "com.apple.developer.group-session"
+                    },
+                    {
+                         "name": "com.apple.developer.healthkit"
+                    },
+                    {
+                         "name": "com.apple.developer.healthkit.access"
                     }
                 ],
         "privacy": {
