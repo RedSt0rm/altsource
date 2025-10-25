@@ -15,7 +15,7 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "dayanch96",
-      "subtitle": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.",
+      "subtitle": "A flexible enhancer for YouTube on iOS",
       "localizedDescription": "Main Features: Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures; Copy video, comment, and post information; Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode; Player settings: Gestures, default quality, preferred audio track; Save, Load and Restore settings. Clear cache once or automatically on app startup; Built-in SponsorBlock; And much, much more. YouTube Plus preferences can be found in the YouTube Settings",
       "iconURL": "https://i.imgur.com/0KGCAgj.png",
       "tintColor": "#fc0434",
@@ -132,11 +132,11 @@
       "category": "entertainment",
       "downloadURL": "https://www.dropbox.com/scl/fi/egho8sxqpnujih6t4rh49/EeveeSpotify_9.0.86_6.1.6.ipa?rlkey=jtnedg5ykotq788gkconarqaq&st=qvyet37v&dl=1",
       "screenshots": [
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/EeveeSpotify/IMG_1606.jpg?raw=true"
+        },
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/EeveeSpotify/IMG_1607.jpg?raw=true"
         },
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/EeveeSpotify/IMG_1608.jpg?raw=true"
-        },
-        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/EeveeSpotify/IMG_1606.jpg?raw=true"
         },
       ],
       "versions": [
@@ -320,7 +320,7 @@
     {
       "title": "Eevee Spotify v.6.1.6 Update",
       "identifier": "redst0rm-news-4",
-      "caption": "The new update fully fixes the Random order song playing bug. Also available the OpenSafariExtension, you just need to enable it on Safari and consent all websites. All the other extensions have been removed, so click on mantain extensions while installing through AltStore!",
+      "caption": "The new update fully fixes the Random order song playing bug. Also available the OpenSafariExtension, you just need to enable it on Safari and consent all websites. All the other extensions have been removed, so click on mantain extensions while installing through AltStore! STILL NOT WORKING UP TO iOS 26.0.1",
       "tintColor": "A405FA",
       "date": "2025-10-22",
       "notify": false
