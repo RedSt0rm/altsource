@@ -1,6 +1,6 @@
 # Hackintosh AltSource
 
-<img src="screenshot/Home.png" alt="Home" width="400">
+<img src="screenshot/Home.png" alt="Home" width="300">
 
 AltStore source with the most useful tweaked apps. Just add the link in the description into AltStore!
 
