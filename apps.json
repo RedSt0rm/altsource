@@ -255,18 +255,26 @@
       ]
     },
     {
-      "name": "MyFitnessPalPremium",
+      "name": "MyFitnessPalPremium+",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "binnichtaktiv",
       "iconURL": "https://play-lh.googleusercontent.com/DtR_W1lA1tKsbrr2DUo3TLNzqi9qRyxPqDuCyJeGLU6OMJKqg7CEqs45btRqvDFNDI3Y",
       "tintColor": "#0c67be",
+       "screenshots": [
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/MyFitnessPal/IMG_1636.jpg?raw=true"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/MyFitnessPal/IMG_1634.jpg?raw=true"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/MyFitnessPal/IMG_1635.jpg?raw=true"
+        },
+      ],
       "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it.",
       "versions": [
         {
-          "version": "25.41.0",
+          "version": "25.43.0",
           "date": "2024-10-11",
           "size": 87300000,
-          "downloadURL": "https://www.dropbox.com/scl/fi/fhopwebhva44vk4460uoz/MyFitnessPal-_25.41.ipa?rlkey=dopf7jq31gmewvwkajeulnc0i&st=wet3ypn5&dl=1"
+          "downloadURL": "https://www.dropbox.com/scl/fi/0ec6jlexofpdno2gyzq2v/MyFitnessPalPremium-_25.43.ipa?rlkey=wek0g5r7x1hg6slt53q8xixjy&st=jlixydvv&dl=1"
         }
       ]
     },
