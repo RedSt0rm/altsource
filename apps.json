@@ -261,7 +261,7 @@
       "developerName": "Blatant",
       "iconURL": "https://play-lh.googleusercontent.com/DtR_W1lA1tKsbrr2DUo3TLNzqi9qRyxPqDuCyJeGLU6OMJKqg7CEqs45btRqvDFNDI3Y",
       "tintColor": "#0c67be",
-       "screenshots": [
+      "screenshots": [
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/MyFitnessPal/IMG_1636.jpg?raw=true"
         },
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/MyFitnessPal/IMG_1634.jpg?raw=true"
@@ -280,19 +280,29 @@
       ]
     },
     {
-      "name": "DuoLingoPremium",
+      "name": "DuoLingoMax",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "subtitle": "DuoLingo Premium for Free",
-      "developerName": "ipacracker",
+      "subtitle": "DuoLingo Max Unlocked",
+      "developerName": "Blatant",
       "iconURL": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA=w240-h480-rw",
       "tintColor": "#006c01",
+      "screenshots": [
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/DuoLingoMax/IMG_1640.jpg?raw=true"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/DuoLingoMax/IMG_1641.jpg?raw=true"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/DuoLingoMax/IMG_1642.jpg?raw=true"
+        },
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/DuoLingoMax/IMG_1643.jpg?raw=true"
+        },
+      ],
       "localizedDescription": "Duolingo is a free language-learning platform with an app and website that uses bite-sized, game-like lessons to teach new languages. It is designed to be accessible to everyone and uses AI and language science to personalize the learning experience and make it fun. Users can practice speaking, reading, listening, and writing, and the platform offers features like daily reminders, leaderboards, and achievements to help with motivation.",
       "versions": [
         {
           "version": "7.96.0",
           "date": "2024-10-11",
           "size": 87300000,
-          "downloadURL": "https://www.dropbox.com/scl/fi/xxbs9uyxvjgjbszzxdhcx/Duolingo-_7.96.0.ipa?rlkey=pjq4juq9221wfhmkw7ttir3yl&st=aibdhqyg&dl=1"
+          "downloadURL": "https://www.dropbox.com/scl/fi/9smvdlzn5vsd1gom346un/DuolingoMax_7.97.ipa?rlkey=ri3cb5xzsmf9x4s0lkqd0z68q&st=ip68ii6y&dl=1"
         }
       ]
     },
