@@ -1,6 +1,7 @@
 # Hackintosh AltSource
 
-AltStore source with the most useful tweaked apps. Just add the link in the description into AltStore!
+AltStore source with the most useful tweaked apps.
+Just add the link in the description into AltStore!
 
 <img src="screenshot/Home.png" alt="Home" width="200">
 
