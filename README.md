@@ -1,8 +1,8 @@
 # Hackintosh AltSource
 
-<img src="screenshot/Home.png" alt="Home" width="300">
-
 AltStore source with the most useful tweaked apps. Just add the link in the description into AltStore!
+
+<img src="screenshot/Home.png" alt="Home" width="200">
 
 ## Link Utili:
 https://ipaomtk.com
