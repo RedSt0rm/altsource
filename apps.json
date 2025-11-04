@@ -273,7 +273,7 @@
       "versions": [
         {
           "version": "25.43.1",
-          "date": "2024-10-11",
+          "date": "2024-11-04",
           "size": 126404410,
           "downloadURL": "https://www.dropbox.com/scl/fi/fbm7qo6b2xaob077t5p1i/MyFitnessPal_25.43.1.ipa?rlkey=94ihqubeu4tzb32jgah3g99qm&st=kh092p3l&dl=1"
         }
@@ -299,10 +299,10 @@
       "localizedDescription": "Duolingo is a free language-learning platform with an app and website that uses bite-sized, game-like lessons to teach new languages. It is designed to be accessible to everyone and uses AI and language science to personalize the learning experience and make it fun. Users can practice speaking, reading, listening, and writing, and the platform offers features like daily reminders, leaderboards, and achievements to help with motivation.",
       "versions": [
         {
-          "version": "7.96.0",
-          "date": "2024-10-11",
-          "size": 87300000,
-          "downloadURL": "https://www.dropbox.com/scl/fi/9smvdlzn5vsd1gom346un/DuolingoMax_7.97.ipa?rlkey=ri3cb5xzsmf9x4s0lkqd0z68q&st=ip68ii6y&dl=1"
+          "version": "7.97.1",
+          "date": "2024-11-04",
+          "size": 191531456,
+          "downloadURL": "https://www.dropbox.com/scl/fi/95w9g02quu1csu1vuu3g9/Duolingo_v7.97.1.ipa?rlkey=oghvuqrvdi1n5254tx6gtkc2q&st=1gmwjokj&dl=1"
         }
       ]
     },
@@ -319,6 +319,23 @@
           "date": "2024-10-17",
           "size": 87300000,
           "downloadURL": "https://www.dropbox.com/scl/fi/8ukhgjac7ql14s5f047l0/Yuka_4.59.ipa?rlkey=7lu0gd0oum80kxm5ox5lmv4fb&st=3iu4ppzj&dl=1"
+        }
+      ]
+    }
+    {
+      "name": "YAZIOPro",
+      "subtitle": "YAZIO Pro Unlocked for Free.",
+      "bundleIdentifier": "com.yazio.ios.YAZIO",
+      "developerName": "Blatant",
+      "iconURL": "https://play-lh.googleusercontent.com/0lsA4kpphpaGgnA_MC_eNgC7VYtO9oXxblx_TPK8rRjpeWDDf_791wNUh5aOKJkR8Q=s256-rw",
+      "tintColor": "#999999",
+      "localizedDescription": "YAZIO è un'app di nutrizione, contacalorie e digiuno intermittente che aiuta a raggiungere obiettivi di salute e benessere. Offre un diario alimentare per monitorare calorie e nutrienti, un database di ricette e tracker per il digiuno intermittente, disponibile gratuitamente. La versione a pagamento, YAZIO PRO, offre accesso a funzionalità avanzate, come un'analisi dettagliata dei nutrienti e più tracker per il digiuno.",
+      "versions": [
+        {
+          "version": "12.57.0",
+          "date": "2025-04-11",
+          "size": 118310634,
+          "downloadURL": "https://www.dropbox.com/scl/fi/utt030l3141g74wf59d23/Yazio_v12.57.0.ipa?rlkey=91ewy6600gk4id9q4u8ogngx3&st=auoeaaxq&dl=1"
         }
       ]
     }
