@@ -241,15 +241,20 @@
     {
       "name": "StravaPremium",
       "bundleIdentifier": "com.strava.stravaride",
+      "subtitle": "Free Trial for Life!",
       "developerName": "Dell",
       "iconURL": "https://play-lh.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU",
       "tintColor": "#ff8d00",
+      "screenshots": [
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/StravaPremium/IMG_1666.png?raw=true"
+        },
+      ],
       "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts all in one place.",
       "versions": [
         {
           "version": "375.0.0",
           "date": "2024-10-13",
-          "size": 87300000,
+          "size": 139887266,
           "downloadURL": "https://www.dropbox.com/scl/fi/pm4gthbcft89v1uhcdrla/StravaPremium-375.0.0.ipa?rlkey=knmqlb0qxjgywi6hv2xx14pmb&st=7c5tyvmt&dl=1"
         }
       ]
@@ -329,6 +334,10 @@
       "developerName": "Blatant",
       "iconURL": "https://play-lh.googleusercontent.com/0lsA4kpphpaGgnA_MC_eNgC7VYtO9oXxblx_TPK8rRjpeWDDf_791wNUh5aOKJkR8Q=s256-rw",
       "tintColor": "#999999",
+      "screenshots": [
+        { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/YAZIOPro/IMG_1662.PNG?raw=true"
+        },
+      ],
       "localizedDescription": "YAZIO è un'app di nutrizione, contacalorie e digiuno intermittente che aiuta a raggiungere obiettivi di salute e benessere. Offre un diario alimentare per monitorare calorie e nutrienti, un database di ricette e tracker per il digiuno intermittente, disponibile gratuitamente. La versione a pagamento, YAZIO PRO, offre accesso a funzionalità avanzate, come un'analisi dettagliata dei nutrienti e più tracker per il digiuno.",
       "versions": [
         {
