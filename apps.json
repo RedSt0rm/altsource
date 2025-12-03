@@ -127,7 +127,7 @@
       "iconURL": "https://i.imgur.com/Mua50ip.png",
       "tintColor": "#3fe963",
       "category": "entertainment",
-      "downloadURL": "https://www.dropbox.com/scl/fi/egho8sxqpnujih6t4rh49/EeveeSpotify_9.0.86_6.1.6.ipa?rlkey=jtnedg5ykotq788gkconarqaq&st=qvyet37v&dl=1",
+      "downloadURL": "https://www.dropbox.com/scl/fi/ljyxmh1rpcb16zu6kpsmn/EeveeSpotify-9.1.0_6.2.2.ipa?rlkey=4pipi6gpmducup1jpdu7ue1xy&st=k7jipjzz&dl=1",
       "screenshots": [
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/EeveeSpotify/IMG_1606.jpg?raw=true"
         },
@@ -138,10 +138,10 @@
       ],
       "versions": [
         {
-          "version": "9.0.86",
+          "version": "9.1.0",
           "date": "2025-10-13T13:10:00+02:00",
-          "downloadURL": "https://www.dropbox.com/scl/fi/egho8sxqpnujih6t4rh49/EeveeSpotify_9.0.86_6.1.6.ipa?rlkey=jtnedg5ykotq788gkconarqaq&st=qvyet37v&dl=1",
-          "size": 87300000,
+          "downloadURL": "https://www.dropbox.com/scl/fi/ljyxmh1rpcb16zu6kpsmn/EeveeSpotify-9.1.0_6.2.2.ipa?rlkey=4pipi6gpmducup1jpdu7ue1xy&st=k7jipjzz&dl=1",
+          "size": 87750000,
         }
       ],
       "permissions": [
