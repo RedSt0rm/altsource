@@ -122,12 +122,12 @@
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
-      "subtitle": "Spotify Premium for Free Build_6.1.6",
+      "subtitle": "Spotify Premium for Free Build_6.2.2",
       "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics. EeveeSpotify has always been free and open-source project. Crypto donations if you'd like to support the creator: USDT (TRC-20): TK4AZZLEWrahYUkKDG8r8Pr5BmkoFjs5zU ETH/USDC/USDT: 0x4eFf79BdfCa9d3BC01a1d145eF343871bb0a3CdF BTC: bc1qspsnjenfq6wgj9a7pmm2xe3up4622wqxlem0g5 TON: UQCgt8EfLdT3QOmnC11vsndUBHryi2suTcTOVCQqBgMdmg4l LTC: ltc1qup3v46fm05sxd278r63957wh4qf2esehevpy76",
       "iconURL": "https://i.imgur.com/Mua50ip.png",
       "tintColor": "#3fe963",
       "category": "entertainment",
-      "downloadURL": "https://www.dropbox.com/scl/fi/ljyxmh1rpcb16zu6kpsmn/EeveeSpotify-9.1.0_6.2.2.ipa?rlkey=4pipi6gpmducup1jpdu7ue1xy&st=k7jipjzz&dl=1",
+      "downloadURL": "https://www.dropbox.com/scl/fi/ljyxmh1rpcb16zu6kpsmn/EeveeSpotify-9.1.0_6.2.2.ipa?rlkey=4pipi6gpmducup1jpdu7ue1xy&st=1nuyyt14&dl=1",
       "screenshots": [
         { "imageURL": "https://github.com/RedSt0rm/altsource/blob/main/screenshot/EeveeSpotify/IMG_1606.jpg?raw=true"
         },
@@ -140,7 +140,7 @@
         {
           "version": "9.1.0",
           "date": "2025-10-13T13:10:00+02:00",
-          "downloadURL": "https://www.dropbox.com/scl/fi/ljyxmh1rpcb16zu6kpsmn/EeveeSpotify-9.1.0_6.2.2.ipa?rlkey=4pipi6gpmducup1jpdu7ue1xy&st=k7jipjzz&dl=1",
+          "downloadURL": "https://www.dropbox.com/scl/fi/ljyxmh1rpcb16zu6kpsmn/EeveeSpotify-9.1.0_6.2.2.ipa?rlkey=4pipi6gpmducup1jpdu7ue1xy&st=1nuyyt14&dl=1",
           "size": 87750000,
         }
       ],
